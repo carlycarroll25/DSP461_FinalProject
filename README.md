@@ -33,8 +33,7 @@ The project utilized the following steps:
 Interactive tools were developed using Gradio:
 1. **Affordability Prediction Interface**: Predicts affordability scores based on input features.
 2. **Migration Classification Interface**: Categorizes migration trends into Net Gain, Net Loss, or Neutral.
-3. **Feature Importance Visualization**: Provides graphical insights into the most impactful predictors.
-4. **Interactive Demo
+3. **Interactive Demo
 Experience the project's features interactively with our Hugging Face demo. Click the link below to explore:
 [Hugging Face Demo](https://huggingface.co/spaces/22tsangr/demo)
 
