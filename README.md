@@ -1,6 +1,6 @@
 # Predicting Housing Affordability and Migration Patterns 
-## CSC/DSP 461: Machine Learning 
-## Carly Carroll and Ryan Tsang 
+##### CSC/DSP 461: Machine Learning 
+##### Carly Carroll and Ryan Tsang 
 
 
 
