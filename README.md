@@ -38,6 +38,15 @@ Experience the project's features interactively with our Hugging Face demo. Clic
 [Hugging Face Demo](https://huggingface.co/spaces/22tsangr/demo)
 
 ## Installation
-1. Clone the repository:
+To set up this project locally, follow these steps:
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/YourUsername/YourRepositoryName.git
+   cd YourRepositoryName
+2. **Install Required Packages**
+  pip install -r requirements.txt
+3. **Upload Data**
+   Ensure that the required **`affordability.csv`** dataset is uploaded
+4. **Run the Project**
+   Use a Python script to execute the project files
+
